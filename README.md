@@ -13,7 +13,7 @@ If you like this repo, be sure to ⭐ it.
 |  #  | Project | Live Demo | tutorial
 | --- | ------------------------------------------------ | --------------------  | ------------- |
 | 01  | [3d social media icon](https://github.com/smthari/Frontend-Projects/tree/master/3d%20social%20media%20icons)| [Live Demo](https://3d-social-media-icons.netlify.app/)| [Tutorial](https://codingbatch.gumroad.com/l/frontendprojects)|
-| 02  | [Profile Card](https://github.com/smthari/Frontend-Projects/tree/master/Animated%20profile%20card)| [Live Demo](https://profile-card-animation.netlify.app/)| [Tutorial](https://codingbatch.gumroad.com/l/frontendprojects) |
+| 02  | [Profile Card](https://github.com/alokdevs06/Project-using-html-Css./blob/main/Animated%20profile%20card/index.html)| [Live Demo](https://profile-card-animation.netlify.app/)| [Tutorial](https://codingbatch.gumroad.com/l/frontendprojects) |
 | 03  | [Slideshow](https://github.com/smthari/Frontend-Projects/tree/master/Slideshow)| [Live Demo](https://slideshow-animation.netlify.app/)| [Tutorial](https://codingbatch.gumroad.com/l/frontendprojects)
 | 04 | [Login Page](https://github.com/smthari/Frontend-Projects/tree/master/Responsive%20login%20form)| [Live Demo](https://responsive-login-page.netlify.app/)| [Tutorial](https://codingbatch.gumroad.com/l/frontendprojects)
 | 05| [Contact Manager App](https://github.com/smthari/Frontend-Projects/tree/master/Contact%20manager%20app)| [Live Demo](https://contact-manager-javascript.netlify.app/)| [Tutorial](https://codingbatch.gumroad.com/l/frontendprojects)
